@@ -1,0 +1,139 @@
+[
+    {
+        "h1":"Sector 13 Restaurants, Karnal",
+        "re":[
+              {
+                "img":"image/55378b53f173d1954885b7db0389440e_o2_featured_v2.jpg",
+                "disscount":"50% OFF up to 100",
+                "time":"24 min",
+                "name":"Kumar Cakes & Bakes",
+                "rating":"4.3",
+                "data":"Bakery, Italian, Pizza, Burger",
+                "rs":"150 for one",
+                "currently":"6700+ orders placed from here recently",
+                "wayimg":"image/4bf016f32f05d26242cea342f30d47a31595763089.jpg",
+                "saftyimg":"image/0b07ef18234c6fdf9365ad1c274ae0631612687510.jpg"
+              },
+              {
+                "img":"image/af4d02d2c8b7e7e7caf19fffc2118c01_o2_featured_v2.jpg",
+                "disscount":"50% OFF up to 100",
+                "time":"20 min",
+                "name":"Pizza Galleria",
+                "rating":"4.0",
+                "data":"Pizza, Italian, Fast Food",
+                "rs":"150 for one",
+                "currently":"Follows all Max Safety measures to ensure your food is safe",
+                "wayimg":"image/4bf016f32f05d26242cea342f30d47a31595763089.jpg",
+                "saftyimg":"image/0b07ef18234c6fdf9365ad1c274ae0631612687510.jpg"
+              },
+              {
+                "img":"image/fd25622d83a534b93ffef1fcb79bd204_o2_featured_v2.jpg",
+                "disscount":"60% OFF",
+                "time":"21 min",
+                "name":"Chaayos Chai+Snacks=Relax",
+                "rating":"4.3",
+                "data":"Tea, Beverages, Fast Food, Street Food, Desserts",
+                "rs":"150 for one",
+                "currently":"Follows all Max Safety measures to ensure your food is safe",
+                "wayimg":"image/4bf016f32f05d26242cea342f30d47a31595763089.jpg",
+                "saftyimg":"image/0b07ef18234c6fdf9365ad1c274ae0631612687510.jpg"
+              },
+              {
+                "img":"image/px-8bd5cdaa774f69f97c9d1bc61d97014a_o2_featured_v2.jpg",
+                "disscount":"60% OFF",
+                "time":"21 min",
+                "name":"Bakingo",
+                "rating":"4.4",
+                "data":"Bakery, Desserts",
+                "rs":"150 for one",
+                "currently":"4175+ orders placed from here recently",
+                "wayimg":"image/4bf016f32f05d26242cea342f30d47a31595763089.jpg",
+                "saftyimg":"image/0b07ef18234c6fdf9365ad1c274ae0631612687510.jpg"
+              },
+              {
+                "img":"image/fe50d5218b4a6109141009063af5eaeb_o2_featured_v2.jpg",
+                "disscount":"50% OFF up to 100",
+                "time":"10 min",
+                "name":"Kalra Restaurant",
+                "rating":"4.2",
+                "data":"North Indian, Chinese",
+                "rs":"150 for one",
+                "currently":"Follows all Max Safety measures to ensure your food is safe",
+                "wayimg":"image/4bf016f32f05d26242cea342f30d47a31595763089.jpg",
+                "saftyimg":"image/0b07ef18234c6fdf9365ad1c274ae0631612687510.jpg"
+              },
+              {
+                "img":"image/px-8368cd0a39c5491290bd506e02dfd646_o2_featured_v2.jpg",
+                "disscount":"50% OFF up to 100",
+                "time":"25 min",
+                "name":"Live Kitchen",
+                "rating":"4.5",
+                "data":"North Indian",
+                "rs":"150 for one",
+                "currently":"Restaurant partner follows WHO protocol",
+                "wayimg":"image/4bf016f32f05d26242cea342f30d47a31595763089.jpg",
+                "saftyimg":"image/0b07ef18234c6fdf9365ad1c274ae0631612687510.jpg"
+              },
+              {
+                "img":"image/px-10f1d0f107f1be4033eba76d69fc2215_o2_featured_v2.jpg",
+                "disscount":"50% OFF up to 100",
+                "time":"18 min",
+                "name":"Delhi Shahi Soya Chap Corner",
+                "rating":"4.5",
+                "data":"Chinese",
+                "rs":"150 for one",
+                "currently":"6025+ orders placed from here recently",
+                "wayimg":"image/4bf016f32f05d26242cea342f30d47a31595763089.jpg",
+                "saftyimg":"image/0b07ef18234c6fdf9365ad1c274ae0631612687510.jpg"
+              },
+              {
+                "img":"image/px-308a4279bc4b05112396cb1dadedf043_o2_featured_v2.jpg",
+                "disscount":"50% OFF up to 100",
+                "time":"29 min",
+                "name":"Shri Bal Gopal",
+                "rating":"3.7",
+                "data":"North Indian, Fast Food, Street Food",
+                "rs":"150 for one",
+                "currently":"1975+ orders placed from here recently",
+                "wayimg":"image/4bf016f32f05d26242cea342f30d47a31595763089.jpg",
+                "saftyimg":"image/0b07ef18234c6fdf9365ad1c274ae0631612687510.jpg"
+              },
+              {
+                "img":"image/px-7470e4a57f0afcbe73a5029d9811a188_o2_featured_v2.jpg",
+                "disscount":"50% OFF up to 100",
+                "time":"18 min",
+                "name":"Lali Ki Thali",
+                "rating":"4.0",
+                "data":"North Indian, Fast Food, Street Food",
+                "rs":"150 for one",
+                "currently":"7275+ orders placed from here recently",
+                "wayimg":"image/4bf016f32f05d26242cea342f30d47a31595763089.jpg",
+                "saftyimg":"image/0b07ef18234c6fdf9365ad1c274ae0631612687510.jpg"
+              },
+              {
+                "img":"image/px-f3201356314a59cee230a9bc1637e150_o2_featured_v2.jpg",
+                "disscount":"50% OFF up to 100",
+                "time":"19 min",
+                "name":"Subway",
+                "rating":"4.1",
+                "data":"Healthy Food, Fast Food, Sandwich, Salad, Beverages, Wraps",
+                "rs":"150 for one",
+                "currently":"Follows all Max Safety measures to ensure your food is safe",
+                "wayimg":"image/4bf016f32f05d26242cea342f30d47a31595763089.jpg",
+                "saftyimg":"image/0b07ef18234c6fdf9365ad1c274ae0631612687510.jpg"
+              },
+              {
+                "img":"image/px-47e46826f8401a4c04e7741c28eec5ce_o2_featured_v2.jpg",
+                "disscount":"50% OFF up to 100",
+                "time":"10 min",
+                "name":"Madras Cafe",
+                "rating":"4.0",
+                "data":"South Indian, Fast Food",
+                "rs":"150 for one",
+                "currently":"Follows all Max Safety measures to ensure your food is safe",
+                "wayimg":"image/4bf016f32f05d26242cea342f30d47a31595763089.jpg",
+                "saftyimg":"image/0b07ef18234c6fdf9365ad1c274ae0631612687510.jpg"
+              }
+            ]
+    }
+]

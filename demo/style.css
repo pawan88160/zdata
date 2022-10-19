@@ -1,0 +1,153 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.productres{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+#res-card {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+}
+.res-card-area{
+    width: 32%;
+    padding: 10px;
+    transition: all 0.2s ease-in;
+    border-radius: 15px;
+}
+.res-card-area a{
+    text-decoration: none;
+}
+.res-card-area:hover{
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.resimg{
+    width: 100%;
+    position: relative;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 20px;
+}
+.resimg img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: none;
+    opacity: 1;
+    will-change: transform, opacity;
+}
+.resimg div{
+    position: absolute;
+    bottom: 30px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    gap: 10px;
+   
+}
+.resimg div span:nth-child(1){
+    background-color: rgb(37, 111, 239);
+    width: 45%;
+    color: white;
+    padding: 2px 5px ;
+    border-radius: 2px;
+    opacity: 0.8;
+}
+.resimg div span:nth-child(2){
+    width: 20%;
+    background-color: white;
+    color: black;
+    padding: 2px 5px ;
+    border-radius: 6px;
+    text-align: center;
+    margin-right: 10px;
+    opacity: 0.8;
+}
+.resdetails {
+    padding-bottom: 15px;
+}
+.resdetails div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.resdetails div span h4,p{
+    margin: 0px;
+}
+.resdetails div span{
+    padding-top: 10px;
+}
+.resdetails div span{
+   font-weight: 100;
+   color: black;
+   opacity: 0.7;
+}
+.resdetails div:nth-child(1) span:nth-child(1) h4{
+    font-size: 1.2rem;
+}
+.resdetails div:nth-child(1) span:nth-child(2){
+    background-color: rgb(38, 126, 62);
+    padding:0px 10px;
+    color: white;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    margin-top: 10px;
+}
+.ressliding{
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.ressliding::before{
+    content: '';
+    width: 100%;
+    height: 1px;
+    background-color: gray;
+    position: absolute;
+    top: 0px;
+    opacity: 0.4;
+}
+.ressliding div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+.ressliding-img{
+    width: 10%;
+}
+.ressliding-img img{
+    width: 1rem;
+}
+.ressliding-txt{
+    width: 70%;
+    font-size: 0.8rem;
+    color: black;
+    opacity: 0.7;
+}
+.ressliding-img2{
+    width: 20%;
+}
+.ressliding-img2 img{
+    width: 50px;
+}
+
+@media screen and (max-width: 800px){
+    .res-card-area{
+        width: 50%;
+    }
+}
+@media screen and (max-width: 470px){
+    .res-card-area{
+        width: 100%;
+    }
+}
